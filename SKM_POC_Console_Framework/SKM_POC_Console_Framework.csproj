@@ -49,6 +49,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\SKM_POC_Framework_Library\SKM_POC_Framework_Library.csproj">
+      <Project>{1ae7ceb6-7da9-47d6-9aef-bc423655564c}</Project>
+      <Name>SKM_POC_Framework_Library</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SKM_POC_Standard_vs_Framework\SKM_POC_Standard_Library.csproj">
       <Project>{1a3d22b6-ff93-4b7a-8f28-157031b8e721}</Project>
       <Name>SKM_POC_Standard_Library</Name>

@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\SKM_POC_Framework_Library\SKM_POC_Framework_Library.csproj" />
+    <ProjectReference Include="..\..\SKM_POC_Framework_Library\SKM_POC_Framework_Library.csproj" />
     <ProjectReference Include="..\..\SKM_POC_Standard_vs_Framework\SKM_POC_Standard_Library.csproj" />
   </ItemGroup>
 </Project>
